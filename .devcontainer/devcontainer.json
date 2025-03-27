@@ -17,7 +17,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"workspaceFolder": "/workspace",
+	// "workspaceFolder": "/workspace",
 
 	// Configure tool-specific properties.
 	"customizations": {
